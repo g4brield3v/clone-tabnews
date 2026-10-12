@@ -1,0 +1,21 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do tabnews para o curso.dev.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "15.5.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

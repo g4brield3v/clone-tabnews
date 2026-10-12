@@ -1,9 +1,9 @@
-export function Home() {
+function Home() {
     return (
-        <div>
+        <main>
             <h1>Se me ama, da uma risadinha!</h1>
-        </div>
+        </main>
     );
-};
+}
 
 export default Home;
