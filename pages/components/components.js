@@ -1,8 +1,7 @@
 export function Home() {
     return (
         <div>
-            <h1>Components</h1>
-            <p>This is the components page.</p>
+            <h1>Se me ama, da uma risadinha!</h1>
         </div>
     );
 };
