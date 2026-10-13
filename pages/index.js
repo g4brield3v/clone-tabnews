@@ -1,10 +1,9 @@
+const colors = ['red', 'green', 'blue', 'yellow', 'orange', 'purple', 'pink', 'brown', 'gray', 'black'];
+
 function Home() {
-    return (
-        <main>
-            <h1>Heloísa, se me ama, da uma risadinha!</h1>
-            <h4>HEHEHHEHE</h4>
-        </main>
-    );
+    for (let cor of colors) {
+        return (<div key={cor} style={{ backgroundColor: cor, width: '100px', height: '100px' }}></div>)
+    }
 }
 
 export default Home;
