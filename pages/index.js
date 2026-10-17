@@ -9,7 +9,7 @@ function Home() {
   return (
     <main>
       <button type="button" onClick={changeBackgroundColor}>
-        Mudar cor do fundo
+        Clique aqui para mudar a cor de fundo
       </button>
     </main>
   );
