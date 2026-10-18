@@ -1,4 +1,15 @@
-const colors = ['red', 'green', 'blue', 'yellow', 'orange', 'purple', 'pink', 'brown', 'gray', 'black'];
+const colors = [
+  "red",
+  "green",
+  "blue",
+  "yellow",
+  "orange",
+  "purple",
+  "pink",
+  "brown",
+  "gray",
+  "black",
+];
 
 function Home() {
   function changeBackgroundColor() {
